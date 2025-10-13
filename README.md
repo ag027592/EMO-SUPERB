@@ -2,6 +2,7 @@
 This repository provides the implementation of Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems, published at the 2024 IEEE Spoken Language Technology Workshop (SLT).
 
 📄 Paper: https://ieeexplore.ieee.org/abstract/document/10832296
+📄 Arxiv: https://arxiv.org/pdf/2402.13018
 
 👥 Authors: Haibin Wu*, Huang-Cheng Chou*, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, and Hung-yi Lee
 
