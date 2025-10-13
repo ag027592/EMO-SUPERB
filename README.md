@@ -19,10 +19,10 @@ This repository provides the implementation of Open-Emotion: A Reproducible EMO-
    * Download WAV files into the folder for each database (e.g., ```data/IEMOCAP/Audios```)by submitting the EULA form for the six databases.
    * [IEMOCAP](https://sail.usc.edu/iemocap/iemocap_release.htm)
    * [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
-   * [IMPROV](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Improv.html)
-   * [PODCAST](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
-   * [NNIME](https://biic.ee.nthu.edu.tw/open_resource_detail.php?id=61)
-   * [BIIC-PODCAST](https://biic.ee.nthu.edu.tw/open_resource_detail.php?id=63)
+   * [IMPROV](https://lab-msp.com/MSP/publications/AcademicLicense-MSP-IMPROV.pdf)
+   * [PODCAST](https://lab-msp.com/MSP/publications/Busso-FDPDTUA_V2.pdf)
+   * [NNIME](https://nnime.ee.nthu.edu.tw/wp-content/uploads/2017/09/NNIME-Datebase-EULA_v2.pdf) (please apply via email: biiclab@ee.nthu.edu.tw) 
+   * [BIIC-PODCAST](http://andc.ai/index.php) (please apply via email: cclee@ee.nthu.edu.tw)
 # Train and Evaluation
 ## Trained Models
 * All files can be downloaded by the [link](https://drive.google.com/file/d/15qjtVo46N944R5jRlFvKkIXBerwpjn3O/view?usp=sharing).
