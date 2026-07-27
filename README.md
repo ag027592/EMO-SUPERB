@@ -5,6 +5,7 @@
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-emosuperb.github.io-1f6feb?style=flat-square)](https://emosuperb.github.io/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21615994.svg)](https://doi.org/10.5281/zenodo.21615994)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Smoke](https://github.com/ag027592/EMO-SUPERB/actions/workflows/smoke.yml/badge.svg)](https://github.com/ag027592/EMO-SUPERB/actions/workflows/smoke.yml)
 
 # Overview
 This repository provides the implementation of Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems, published at the 2024 IEEE Spoken Language Technology Workshop (SLT).
