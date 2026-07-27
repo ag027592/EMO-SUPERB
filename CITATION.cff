@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use EMO-SUPERB, please cite the following paper."
+title: "EMO-SUPERB: EMOtion Speech Universal PERformance Benchmark"
+url: "https://emosuperb.github.io/"
+repository-code: "https://github.com/EMOsuperb/EMO-SUPERB-submission"
+license: MIT
+authors:
+  - family-names: Wu
+    given-names: Haibin
+  - family-names: Chou
+    given-names: Huang-Cheng
+  - family-names: Chang
+    given-names: Kai-Wei
+  - family-names: Goncalves
+    given-names: Lucas
+  - family-names: Du
+    given-names: Jiawei
+  - family-names: Jang
+    given-names: Jyh-Shing Roger
+  - family-names: Lee
+    given-names: Chi-Chun
+  - family-names: Lee
+    given-names: Hung-yi
+preferred-citation:
+  type: conference-paper
+  title: "Open-Emotion: A Reproducible EMO-Superb For Speech Emotion Recognition Systems"
+  collection-title: "2024 IEEE Spoken Language Technology Workshop (SLT)"
+  year: 2024
+  start: 510
+  end: 517
+  doi: "10.1109/SLT61566.2024.10832296"
+  authors:
+    - family-names: Wu
+      given-names: Haibin
+    - family-names: Chou
+      given-names: Huang-Cheng
+    - family-names: Chang
+      given-names: Kai-Wei
+    - family-names: Goncalves
+      given-names: Lucas
+    - family-names: Du
+      given-names: Jiawei
+    - family-names: Jang
+      given-names: Jyh-Shing Roger
+    - family-names: Lee
+      given-names: Chi-Chun
+    - family-names: Lee
+      given-names: Hung-yi
