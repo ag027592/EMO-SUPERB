@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use EMO-SUPERB, please cite the following paper."
 title: "EMO-SUPERB: EMOtion Speech Universal PERformance Benchmark"
 url: "https://emosuperb.github.io/"
-repository-code: "https://github.com/EMOsuperb/EMO-SUPERB-submission"
+repository-code: "https://github.com/ag027592/EMO-SUPERB"
 license: MIT
 authors:
   - family-names: Wu
