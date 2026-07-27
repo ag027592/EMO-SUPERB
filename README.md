@@ -3,6 +3,7 @@
 [![Paper](https://img.shields.io/badge/IEEE%20SLT%202024-Open--Emotion-00629B?style=flat-square)](https://doi.org/10.1109/SLT61566.2024.10832296)
 [![arXiv](https://img.shields.io/badge/arXiv-2402.13018-B31B1B?style=flat-square)](https://arxiv.org/abs/2402.13018)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-emosuperb.github.io-1f6feb?style=flat-square)](https://emosuperb.github.io/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21615994.svg)](https://doi.org/10.5281/zenodo.21615994)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 # Overview
