@@ -1,10 +1,20 @@
+# EMO-SUPERB: EMOtion Speech Universal PERformance Benchmark
+
+[![Paper](https://img.shields.io/badge/IEEE%20SLT%202024-Open--Emotion-00629B?style=flat-square)](https://doi.org/10.1109/SLT61566.2024.10832296)
+[![arXiv](https://img.shields.io/badge/arXiv-2402.13018-B31B1B?style=flat-square)](https://arxiv.org/abs/2402.13018)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-emosuperb.github.io-1f6feb?style=flat-square)](https://emosuperb.github.io/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 # Overview
 This repository provides the implementation of Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems, published at the 2024 IEEE Spoken Language Technology Workshop (SLT).
 
+Speech emotion recognition (SER) suffers from a reproducibility crisis: 80.77% of SER papers report results that cannot be reproduced, largely because datasets ship without standard train/dev/test splits. EMO-SUPERB addresses this with standardized, leakage-free partitions for six open-source SER datasets in English and Chinese, a codebase that evaluates 15 state-of-the-art speech self-supervised learning models, and a community-driven online leaderboard. We additionally prompt ChatGPT to interpret the 2.58% of annotations written as free-form typed descriptions, which classification models normally discard, yielding a 3.08% average relative gain.
+
 📄 Paper: https://ieeexplore.ieee.org/abstract/document/10832296
 📄 Arxiv: https://arxiv.org/pdf/2402.13018
+🏆 Leaderboard and project website: https://emosuperb.github.io/
 
-👥 Authors: Haibin Wu*, Huang-Cheng Chou*, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, and Hung-yi Lee
+👥 Authors: Haibin Wu*, Huang-Cheng Chou*, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, and Hung-yi Lee (*equal contribution)
 
  # Installation
  1. The EMO-SUPERB is developed based on [s3prl](https://github.com/s3prl/s3prl#installation) toolkit, please install it first.
@@ -74,5 +84,19 @@ The folder, named **```chatGPT```**, contains the promot (```Prompt.txt```) for 
 * The output files (```output_dev.csv``` and ```output_train.csv```) consist of the file names, adjusted distributional primary emotions labels, and reasons from ChatGPT.
 We encourage everyone to contribute their prompt and results.
 
+# Citation
+If you find this work useful in your research, please cite:
+```
+@INPROCEEDINGS{Wu_2024_OpenEmotion,
+  author={Wu, Haibin and Chou, Huang-Cheng and Chang, Kai-Wei and Goncalves, Lucas and Du, Jiawei and Jang, Jyh-Shing Roger and Lee, Chi-Chun and Lee, Hung-yi},
+  booktitle={2024 IEEE Spoken Language Technology Workshop (SLT)},
+  title={Open-Emotion: A Reproducible EMO-Superb For Speech Emotion Recognition Systems},
+  year={2024},
+  pages={510-517},
+  doi={10.1109/SLT61566.2024.10832296}
+}
+```
 
+# License
+Released under the [MIT License](LICENSE).
 
